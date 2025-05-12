@@ -5,7 +5,7 @@
   </a>
   
   <!-- Typing SVG for roles -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;Data+Science+Enthusiast;Research+and+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=600&lines=Machine+Learning;Full+Stack+Developer;Data+Science+Enthusiast;Research+and+Development" alt="Typing SVG" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sheshan1&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </div>
