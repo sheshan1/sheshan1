@@ -73,7 +73,7 @@ I'm a passionate professional specializing in Machine Learning, Data Science, Fu
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheshan1&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+  <!-- img src="https://github-readme-activity-graph.vercel.app/graph?username=sheshan1&theme=redical&hide_border=true&area=true" alt="Contribution Graph" /-->
   
 
 ## 🌐 Connect with me 
@@ -91,20 +91,19 @@ I'm a passionate professional specializing in Machine Learning, Data Science, Fu
 </div>
 
 <!-- LeetCode stats -->
-<div align="center">
+<!-- div align="center">
   <img src="https://leetcard.jacoblin.cool/sheshan25?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+</div -->
 
 ## 📞 Contact
 
-- 📧 Email: sheshan.20@cse.mrt.ac.lk
-- 📱 Phone: +94 76 11 56550
-- 🔗 LinkedIn: [www.linkedin.com/in/sheshan25](https://www.linkedin.com/in/sheshan25)
+📧 Email: sheshan.20@cse.mrt.ac.lk
+📱 Phone: +94 76 11 56550
+🔗 LinkedIn: [www.linkedin.com/in/sheshan25](https://www.linkedin.com/in/sheshan25)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheshan1&style=flat-square&color=blueviolet" alt="Profile views" />
   
   <h4>Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate.</h4>
   
